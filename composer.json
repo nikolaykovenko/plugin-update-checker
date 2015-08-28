@@ -1,5 +1,5 @@
 {
-	"name": "yahnis-elsts/plugin-update-checker",
+	"name": "nikolaykovenko/plugin-update-checker",
 	"type": "wordpress-plugin",
 	"description": "A custom update checker for WordPress plugins. Useful if you can't host your plugin in the official WP plugin repository but still want it to support automatic plugin updates.",
 	"keywords": ["wordpress", "plugin updates", "automatic updates"],
